@@ -14,7 +14,7 @@
 6. [pq não o flutter(vídeo com ironias, saibam filtrar isso ok?)?](https://youtu.be/A1NjONzcHrY?si=vlGFmjNcjn9npHyi)
 7. [Curso rápido React Native](https://www.youtube.com/watch?v=sUFZiaAulrA&list=PLqfQXYWB7zobw0ruLOoeAKCCc7_jQo-JN&pp=iAQB)
 
-# Links extras nível hard
+# Links extras para complementar
 1. [Eu sei o que é melhor para o seu futuro, react native ou flutter](https://youtu.be/-6FB7UDuQsk?si=HRV7e5wU6VLesH0i)
 2. [Carreira em apps](https://youtu.be/TbVSO0RIQsg?si=FqKXU1BTNLh7750Q)
 3. [KMM é melhor que Flutter/React Native?](https://youtu.be/Rg9PS_DDILQ?si=eeVsYMesoaJbES1v)
