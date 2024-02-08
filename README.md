@@ -8,7 +8,7 @@
     - Evolua para **React Native**
     - Versão gratuita, em português, mas tem a versão paga caso tenham interesse
 2. [O que é o react native?](https://youtu.be/mqltv3kFdgE?si=cqZs16TD7CLg4f4a)
-3. [Revisão de javascript]()
+3. [Revisão de javascript](https://github.com/Bento-Quirino/PDM/tree/main/Revis%C3%A3o%20Javascript)
 4. [Diferenças entre React e React Native](https://youtu.be/2-OAUXA4IcE?si=LoaRHeDiqd5JfFX8)
 5. [Como começar com React Native?](https://youtu.be/CO4C9UVaFKk?si=okAcA7yt5v_WLuJr)
 6. [pq não o flutter(vídeo com ironias, saibam filtrar isso ok?)?](https://youtu.be/A1NjONzcHrY?si=vlGFmjNcjn9npHyi)
