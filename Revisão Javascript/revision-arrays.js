@@ -30,8 +30,5 @@ for (let i = 0; i < chamada.length; i++) {
 }
 
 // Procurando alguém de outro jeito
-for (let i = 0; i < chamada.length; i++) {
-    if (chamada[i] === nome) {
-        console.log(`Encontrei ${nome} na posição ${i}`)
-    }
-}
+const position = chamada.indexOf(nome)
+console.log(`${chamada[position]} está na posição ${position}`)
