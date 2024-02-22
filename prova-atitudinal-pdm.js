@@ -42,7 +42,7 @@ Com base nos conhecimentos adquiridos em aula, pede-se que entreguem um arquivo 
 
 
 ## Considerações finais, avaliação e entrega
-- O arquivo deve ser entregue até o dia 22/02/2024 no fim da aula, com o link do repositório no Google Docs.
+- O arquivo deve ser entregue até o dia 22/02/2024 no fim da aula, com o link do repositório no (GOOGLE DOCS)[https://encurtador.com.br/vAHR1].
 - Cola ou plágio acarretará em nota 0 (zero) para todos os envolvidos
 - A avaliação será feita com base nos seguintes critérios:
     - Comentários explicativos (0.1)
