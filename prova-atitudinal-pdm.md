@@ -1,4 +1,4 @@
-# Avaliação atitudinal PDM valendo 1 ponto
+# Avaliação atitudinal PDM valendo 2 pontos
 
 Com base nos conhecimentos adquiridos em aula, pede-se que entreguem um arquivo chamado `pdm-seu-nome-completo.js` que resolva o seguinte problema:
 
