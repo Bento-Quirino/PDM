@@ -45,9 +45,9 @@ Com base nos conhecimentos adquiridos em aula, pede-se que entreguem um arquivo 
 - O arquivo deve ser entregue até o dia 22/02/2024 no fim da aula, com o link do repositório no (GOOGLE DOCS)[https://encurtador.com.br/vAHR1].
 - Cola ou plágio acarretará em nota 0 (zero) para todos os envolvidos
 - A avaliação será feita com base nos seguintes critérios:
-    - Comentários explicativos (0.1)
-    - Implementação da função validaCadastro (0.7)
-    - Testes da função validaCadastro (0.2)
+    - Comentários explicativos (0.2)
+    - Implementação da função validaCadastro (1.4)
+    - Testes da função validaCadastro (0.4)
 - Quem não entregar o projeto até a data estipulada, terá nota 0 (zero) no projeto
 - Use alguns objetos para testar a função validaCadastro() como no exemplo abaixo:
     - ```javascript
