@@ -102,3 +102,4 @@ let chamadaDeAlunos = [
     - Usar objetos
     - Usar loops
     - Usar condicionais
+https://docs.google.com/spreadsheets/d/1Qz3x56uPLcdsJD_4auvZcFfBaWyHdKXXhynz3QSqPaU/edit#gid=1956555943
