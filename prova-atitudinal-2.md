@@ -96,3 +96,9 @@ let chamadaDeAlunos = [
 - **mostrar apenas os alunos que reprovados nas materias (nota menor que 6 e presença menor a 75)**
 - Mostrar os 3 alunos que tiveram MAIOR NOTA
 - Mostrar os 3 alunos que tiveram MENOR NOTA
+- **DEVE SER FEITA UMA FUNÇÃO PARA CADA QUESTÃO FEITA ACIMA**
+    - Usar functions
+    - Usar array
+    - Usar objetos
+    - Usar loops
+    - Usar condicionais
