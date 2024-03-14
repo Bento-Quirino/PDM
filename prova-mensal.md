@@ -134,3 +134,5 @@ Deve ser entregue um arquivo js com o nome `chamada-escolar.js` com a implementa
 - QUALQUER TENTATIVA DE COLA ou GERAR CÓDIGOS POR I.A's ou consultas em VÍDEOS resultará em ZERO
 - NÃO PODERRÁ SAIR DURANTE A PROVA PARA ÁGUA OU BANHEIRO
 - O uso de dispositivos eletrônicos só será liberado nos últimos 20 minutos de prova para entregar a prova no github
+
+https://docs.google.com/spreadsheets/d/1Qz3x56uPLcdsJD_4auvZcFfBaWyHdKXXhynz3QSqPaU/edit?usp=sharing
