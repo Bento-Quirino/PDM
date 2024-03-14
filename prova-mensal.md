@@ -12,11 +12,9 @@ A prova irá abordar os seguintes tópicos estudados em javascript:
 
 ## O projeto consiste em **Criar um sistema escolar**.
 Dada uma lista de alunos, o sistema deverá ser capaz de:
-- [ ] **Adicionar um aluno na turma** 
-- [ ] **Remover um aluno da turma**
+
 - [ ] **Listar todos os alunos,apenas o ra-nome**
 - [ ] **Buscar um aluno pelo número da chamada**
-- [ ] **Listar todos os alunos presentes**
 - [ ] **Mostrar alunos matriculados no mês 02**
 - [ ] **Listar todos alunos aprovados**
     - Média >= 6 e Presença >= 75
