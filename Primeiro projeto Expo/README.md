@@ -20,3 +20,6 @@ Rode com o node ou expo e siga as instruções em seu terminal:
 
 `expo start`
 
+### Documentações importantes
+- [Criando o primeiro app](https://docs.expo.dev/tutorial/create-your-first-app/)
+- [Views e componentes em SO's](https://reactnative.dev/docs/intro-react-native-components)
