@@ -2,6 +2,8 @@
 
 Replique a tela que seu grupo foi destinado a fazer e coloque o código no github junto com um print no readme, pois no dia 04/04/2024 será a correção em sala para quem tiver finalizado.
 
+A prova tem como objetivo analisar a capacidade de abstração dos alunos ao tentarem replicar as telas, avaliando juntamente boas práticas de programação e organização de código JSX/CSS in JS
+
 (data limite de entrega: 12:45 de 04/04/2024) 
 Veja seu **novo grupo** abaixo
 
