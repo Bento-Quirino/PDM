@@ -19,8 +19,3 @@
 2. [Carreira em apps](https://youtu.be/TbVSO0RIQsg?si=FqKXU1BTNLh7750Q)
 3. [KMM é melhor que Flutter/React Native?](https://youtu.be/Rg9PS_DDILQ?si=eeVsYMesoaJbES1v)
 4. [Curso alura $$$ React native](https://www.alura.com.br/formacao-react-native)
-
-## Como as notas são avaliadas?
-- 4 avaliações valendo de 0-2
-- Soma todas, divide por 4
-Exemplo: 2, 1, 2, 1 = 1.5
