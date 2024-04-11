@@ -1,46 +1,51 @@
-import { View, StyleSheet, Dimensions } from 'react-native' // Importando componentes nativos
-import { Button, TextInput } from 'react-native-paper' // Importando de bibliotecas
+import { View, StyleSheet, Dimensions, ImageBackground, Text } from 'react-native'; // Importing native components
+import { Button, TextInput } from 'react-native-paper'; // Importing from libraries
+import PersonBackground from "./src/assets/person-background-image.jpeg"
+import { BlurView } from 'expo-blur'
 
-const width = Dimensions.get("screen").width // Pega a largura da tela
-const height = Dimensions.get("screen").height // Pega a altura da tela
+// Variáveis globais
+const width = Dimensions.get("screen").width; // Gets the screen width
+const height = Dimensions.get("screen").height; // Gets the screen height
 
 export default function App() {
-  // Criando uma função que faz um console.log()
-  function mostrarLog() {
-    console.log("EU SOU UMA FUNÇÃO")
-  }
-
-  // Retorna o que vemos na tela (JSX)
-  return(
-    <View style={styles.formulario}> 
-      <TextInput style={styles.inputs} placeholder='Email'/>
-      <TextInput placeholder='Senha'/>
-      <Button style={styles.inputs} mode='contained' onPress={mostrarLog}>Login</Button>
-      <Button style={styles.inputs} mode='outlined' onPress={mostrarLog}>Login</Button>
-    </View>
+  return (
+    <ImageBackground source={PersonBackground} style={styles.background}>
+      <BlurView intensity={100} style={styles.blurContainer}>
+        <View style={styles.form}>
+          <TextInput mode='outlined' style={styles.inputs} placeholder='Email' />
+          <TextInput mode='outlined' style={[styles.inputs, { width: '90%' }]} placeholder='Senha' />
+          <Button style={styles.inputs} mode='contained'>Login</Button>
+        </View>
+      </BlurView>
+    </ImageBackground>
   )
 }
 
 const styles = StyleSheet.create({
-  // Aqui temos um "formulario" que tem o tamanho da nossa tela
-  // aqui o css é como se fosse um objeto, o valor, e a chave, exemplo:
-  // background-color, viraria backgroundColor
-  // #000, viraria '#000'
-
-  // DESAFIO
-  // Dê uma margin nos inputs/buttons
-  // Aumente o segundo input
-  formulario: {
-    borderWidth: "32px",
-    borderStyle: 'solid',
-    borderColor: "#00fa00",
+  background: {
     width: width,
     height: height,
     flex: 1,
     alignItems: "center",
     justifyContent: "center"
   },
-  inputs: { // 80% da largura da tela
-    width: width*0.8,
+  blurContainer: {
+    position: 'absolute',
+    
+    width: '100%',
+    height: '100%',
+    alignItems: 'center',
+    justifyContent: 'center',
   },
-})
+  form: {
+    backgroundColor: "rgba(255, 255, 255, 0.3)",
+    width: width * 0.9,
+    alignItems: "center",
+    padding: 8,
+    borderRadius: 10,
+  },
+  inputs: {
+    width: "80%",
+    marginVertical: 10,
+  },
+});
