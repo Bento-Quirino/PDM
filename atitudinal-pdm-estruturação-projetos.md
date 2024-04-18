@@ -23,3 +23,7 @@
   - **TELA 3**
 
 ![image](https://github.com/Bento-Quirino/PDM/assets/72083150/00dec42b-ebb8-4690-aa37-b5832d9a15d6)
+
+## TELA 1, TELA DA ESQUERDA
+## TELA 2, TELA DO MEIO
+## TELA 3, TELA DA DIREITA (com um planeta na parte de cima)
