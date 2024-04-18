@@ -1,5 +1,7 @@
 # ATITUDINAL - Estruturação de projetos mobile
 
+OS GRUPOS DEVEM criar um projeto no expo que recrie **FIELMENTE** as telas propostas, com os padrões de organização de pastas vistos em aula, juntamente com a modularização do app (imports de partes menores como por exemplo width e height, para evitar repetir código), entregar até dia 24/02/2024.
+
 ### GRUPOS TERCEIRO A
 - ALESSANDRA CRISTINA DE OLIVIERA, HAROLDO OCTAVIO KIMURA OLIVEIRA, ISABELLE NATALE, HENRIQUE GALHARDO DE LA VOLPE, VITOR FERRAZ, SOFIA DE SOUZA.
   - **TELA 2**
