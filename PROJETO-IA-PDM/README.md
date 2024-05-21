@@ -17,11 +17,11 @@
 
 # ARTIGOS DE AJUDA
 
-[artigo guia](https://dev.to/fadygrab/react-tensorflowjs-a-cool-recipe-for-ai-powered-applications-129h)
-[FlatList](https://reactnative.dev/docs/flatlist)
-[Conditional rendering](https://youtu.be/XvURBpFxdGw?si=ukKgOrzdtAg56jEC)
-[Props](https://youtu.be/ZLtBdpwg8tI?si=lkN2kW4qAOZVE_D-)
-[Hooks](https://youtu.be/TNhaISOUy6Q?si=R7Obm1nHWblITxW8)
+- [artigo guia](https://dev.to/fadygrab/react-tensorflowjs-a-cool-recipe-for-ai-powered-applications-129h)
+- [FlatList](https://reactnative.dev/docs/flatlist)
+- [Conditional rendering](https://youtu.be/XvURBpFxdGw?si=ukKgOrzdtAg56jEC)
+- [Props](https://youtu.be/ZLtBdpwg8tI?si=lkN2kW4qAOZVE_D-)
+- [Hooks](https://youtu.be/TNhaISOUy6Q?si=R7Obm1nHWblITxW8)
 
 # Entregar até dia 28/05
 - Grupos de 4 a 6 integrantes;
