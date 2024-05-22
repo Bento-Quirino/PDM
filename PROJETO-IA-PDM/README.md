@@ -1,4 +1,4 @@
-# Em grupos devem realizar a criação de uma tela proposta, usando o código base disponibilizado nesse repositório.
+# Em grupos devem realizar a criação de uma tela proposta.
 
 ## Será avaliado na prova MENSAL:
 - Organização de pastas;
