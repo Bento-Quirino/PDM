@@ -1,4 +1,40 @@
 # Em grupos devem realizar a criação de uma tela proposta.
+## Será avaliado na prova BIMESTRAL PDM:
+- Organização de pastas: **1 ponto**;
+  - `src/components`
+  - `src/constants`
+  - `src/lib` para a tensorflow/toxicity
+  - `src/constants/i18n`
+- Criar componentes separados para **3 pontos**:
+  - Input;
+  - Caixa;
+  - Botão;
+- UI: **2 pontos**;
+  - Fidelidade da UI do projeto
+- Integração de I.A do tensorflow **NO APLICATIVO** (usando o modelo /toxicity): **4 pontos**;
+
+## Será avaliado na prova BIMESTRAL TIA:
+- Integração de I.A do tensorflow **NO APLICATIVO** (usando o modelo /toxicity): **10 pontos**;
+  
+![image](https://github.com/Bento-Quirino/PDM/assets/72083150/1b879d1e-fe98-42f3-a16a-8771c8b4b7d3)
+
+  ## OBS:
+  O texto "Conteúdo extremamente tóxico" deve mudar com base nos erros, exemplo, se tivemos 3 toxicidades, pegue a primeira, e mostre ela:
+  - Conteúdo extremamente ofensivo
+  - Conteúdo ofensivo
+  - Conteúdo Tóxico
+Mostre primeiro "Conteúdo extremamente ofensivo"
+
+## 
+##
+## 
+##
+## 
+##
+## 
+##
+## 
+##
 
 ## Será avaliado na prova MENSAL:
 - Organização de pastas;
