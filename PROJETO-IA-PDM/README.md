@@ -58,10 +58,10 @@ Mostre primeiro "Conteúdo extremamente ofensivo"
 - [Conditional rendering](https://youtu.be/XvURBpFxdGw?si=ukKgOrzdtAg56jEC)
 - [Props](https://youtu.be/ZLtBdpwg8tI?si=lkN2kW4qAOZVE_D-)
 - [Hooks](https://youtu.be/TNhaISOUy6Q?si=R7Obm1nHWblITxW8)
+- [Tensorflow JS](https://www.npmjs.com/package/@tensorflow/tfjs-react-native)
 
 ### Bibliotecas recomendadas
 - [react native paper](https://reactnativepaper.com/)
-- [react navigation](https://reactnavigation.org/docs/getting-started/)
 - [tensorflow toxicity model](https://github.com/tensorflow/tfjs-models/tree/master/toxicity)
 
 # Entregar até dia 28/05
