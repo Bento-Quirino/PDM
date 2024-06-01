@@ -7,7 +7,6 @@
   - `src/constants/i18n`
 - Criar componentes separados para **3 pontos**:
   - Input;
-  - Caixa;
   - Botão;
 - UI: **2 pontos**;
   - Fidelidade da UI do projeto
@@ -63,6 +62,13 @@ Mostre primeiro "Conteúdo extremamente ofensivo"
 ### Bibliotecas recomendadas
 - [react native paper](https://reactnativepaper.com/)
 - [tensorflow toxicity model](https://github.com/tensorflow/tfjs-models/tree/master/toxicity)
+- Ajudadando com tensorlflow e dependências:
+```sh
+npx expo install expo-gl --force
+npm install react-native-fs --force
+npm install @tensorflow/tfjs --force
+npm install @tensorflow/tfjs-react-native --force
+```
 
 # Entregar até dia 28/05
 - Grupos de 4 a 6 integrantes;
