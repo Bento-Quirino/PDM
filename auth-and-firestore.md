@@ -85,7 +85,8 @@ Verifique se a coleção users foi criada e os dados do usuário foram armazenad
 ## TAREFA
 
 - Deve ser implementado um cadastro de usuário para o firestore/auth com 4 campos ou mais, sendo esses 3 desses campos email, senha e confirmar senha. Siga o fluxo descrito acima para o cadastro.
-
+- Deve ser implementado um login utilizando o firebase auth
+- **NÃO SERÁ CONSIDERADA INTERFACE GRÁFICA PARA NOTA**
 ## AVALIAÇÃO
 
 | Critério                                            | Pontos | Descrição                                                                                 |
