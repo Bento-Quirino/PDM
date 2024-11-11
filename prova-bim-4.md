@@ -16,7 +16,7 @@
 | Consulta de Produtos QR     | Use `expo-barcode-scanner` para escanear QR codes. Notificação: "Produto escaneado com sucesso!"                     | Murilo Nasc                               |
 | Conversor de Texto para Voz | Use `expo-speech` para conversão de texto em áudio. Notificação: "Áudio gerado, pronto para ouvir!"                  | Matheus                               |
 | Mapa de Locais Favoritos    | Use `react-native-maps` para exibir locais em um mapa. Notificação: "Novo local salvo no seu mapa!"                 |                                |
-| Rastreador de Atividade     | Use `expo-location` para rastrear a localização do usuário. Notificação: "Nova localização registrada!"               |                                |
+| Rastreador de Atividade     | Use `expo-location` para rastrear a localização do usuário. Notificação: "Nova localização registrada!"               | Pedro Meira                               |
 | Calculadora de Gastos       | Use `react-native-chart-kit` para exibir gráficos. Notificação: "Despesa adicionada ao seu orçamento mensal!"        | Alessandra                               |
 | Bloco de Notas              | Use `react-native-paper` para estilizar o editor. Notificação: "Nota salva com sucesso!"                             | Mário                          |
 | Diário de Humor             | Use `@react-native-async-storage/async-storage` para salvar registros de humor do dia. Notificação: "Humor do dia salvo com sucesso!" |                                |
